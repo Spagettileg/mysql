@@ -8,7 +8,7 @@ username = os.getenv('C9_USER')
 # Connect to the database. **It's a connection object**
 connection = pymysql.connect(host='localhost',
                              user=username,
-                             password='',
+                             password='123',
                              db='Chinook')
 
 try:
