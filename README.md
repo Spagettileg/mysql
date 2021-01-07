@@ -1,14 +1,19 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# mysql | introduction & connection to Python 
 
+Chinook mysql database is the source data from where data can be manipulated in Bash Ubuntu CLI.
 
-Hi there! Welcome to AWS Cloud9!
+Test file created to run a count of the following data elements:
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+- Track
+- Artist
 
-Happy coding!
+## Demo
+Link to the [live](https://spagettileg.github.io/mysql/) website hosted in GitHub Pages 
+
+Link to [GitHub](https://github.com/Spagettileg/mysql) Repo
+
+***
+
+<div align="center">
+<img src="assets/img/chinook.png">
+</div>
