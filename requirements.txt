@@ -13,7 +13,7 @@ colorama==0.3.9
 command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
-cryptography==2.3
+cryptography>=3.2
 distro-info===0.18ubuntu0.18.04.1
 Django>=2.0.11
 docutils==0.14
@@ -41,7 +41,7 @@ oauthlib==2.0.6
 olefile==0.45.1
 PAM==0.4.2
 pbr==5.2.1
-Pillow==6.2.2
+Pillow>=7.1.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.1
 Pygments==2.2.0
