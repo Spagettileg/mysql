@@ -44,7 +44,7 @@ pbr==5.2.1
 Pillow>=7.1.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.1
-Pygments==2.2.0
+Pygments>=2.7.4
 pygobject==3.26.1
 PyJWT==1.5.3
 pylint==1.8.1
@@ -73,7 +73,7 @@ stevedore==1.30.1
 systemd-python==234
 ufw==0.36
 unattended-upgrades==0.1
-urllib3==1.25.3
+urllib3>=1.25.8
 virtualenv==16.2.0
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
